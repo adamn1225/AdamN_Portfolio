@@ -56,6 +56,7 @@ time, mark, audio, video {
    font-size: 100%;
    vertical-align: baseline;
    background: transparent;
+   border-color: black;
 }
 
 article,aside,details,figcaption,figure,
@@ -801,7 +802,3 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
-
-
-
-
